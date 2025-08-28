@@ -1,1 +1,0 @@
-# Automating-Job-Applications-on-LinkedIn-with-AI-and-Playwright
